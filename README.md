@@ -22,6 +22,7 @@ The objective of this project is to develop a predictive model for car prices us
 * matplotlib
 * sklearn
 * Pandas, jupyter
+* Numpy
 
 ## Project Description
 This data science project focuses on predicting car prices using advanced machine learning techniques. By analyzing a dataset of vehicle attributes—such as make, model, year, mileage, and condition—along with market trends, we aim to develop a model that forecasts car values with high accuracy. The project involves data cleaning, feature engineering, and applying algorithms like linear regression, decision trees, and Linear Regression. The resulting model will assist buyers, sellers, and dealerships in determining fair market prices, enhancing decision-making processes, and improving pricing strategies in the automotive industry.
